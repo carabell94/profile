@@ -1,5 +1,8 @@
 body {
-  background-color:#C1EEEE;
+/*  background-color:#C1EEEE;
+*/
+  background-image: url("images/mountain.jpg");
+  background-size: cover;
   font-family:'Arvo', serif;
   font-size: 15px;
   font-weight: lighter;
@@ -42,24 +45,24 @@ display: inline-block;
 }
 
 .social_icons a {
-color:#12ABAC;
+color:#a2c0ea;
 padding-right: 33px;
 font-size: 30px;
 }
 
 .social_icons a:hover {
-  color:#066465;
+  color:#619AEA;
 }
 
 .card {
   text-align: center;
-  background:#D6F0F0;
+  background:#f4d5d3;
   border:2px dotted;
-  border-color: #12ABAC;
+  border-color: #a2c0ea;
   margin: 10px;
   padding: 20px 10px;
   border-radius:5px;
-  box-shadow:2px 2px 5px #12ABAC;
+  box-shadow:2px 2px 5px #a2c0ea;
 }
 
 .bio {
@@ -92,14 +95,18 @@ text-align: justify;
 }
 
 button {
-  background-color: #12ABAC;
+  background-color: #a2c0ea;
   box-shadow: 2px 2px grey;
   border: grey;
   color: white;
 }
 
 button:hover {
-background-color:#066465;
+background-color:#619AEA;
+}
+
+.follow_me {
+color:#577EC3;
 }
 
 
