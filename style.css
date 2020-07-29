@@ -26,6 +26,7 @@ display: inline-block;
 .social_icons a {
 color:#12ABAC;
 padding-right: 33px;
+font-size: 30px;
 }
 
 .social_icons a:hover {
@@ -82,5 +83,6 @@ button {
 button:hover {
 background-color:#066465;
 }
+
 
 
