@@ -23,19 +23,20 @@ h1 {
 .whistler {
   width: 150px;
   height: 120px;
-  margin-right: 10px;
+  margin: 10px;
 }
 
 .dog {
   width: 130px;
   height: 120px;
-  margin-right: 10px;
+  margin: 10px;
 
 }
 
 .bali {
   width: 150px;
   height: 120px;
+  margin: 10px;
 }
 
 /* removes bullet points from social icons & makes them horizontal */
